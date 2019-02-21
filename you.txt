@@ -1,2 +1,2 @@
-idea add
+idea add edit first
 
